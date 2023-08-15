@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "first-project",
-    "slug": "first-project"
+    "slug": "first-project",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
